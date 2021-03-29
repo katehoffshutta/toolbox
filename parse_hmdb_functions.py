@@ -4,9 +4,6 @@ import sys
 def clean(x):
     x = x.strip()
     x = x.strip("\n")
-    x = x.strip("\n")
-    #x = x.replace("'","prime")
-    #x = x.replace("''","double-prime")
     return(x)
 
 def populateMetabDict(xml):
