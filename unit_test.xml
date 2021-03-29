@@ -1,0 +1,34 @@
+<hmdb xmlns="http://www.hmdb.ca">
+  <metabolite>
+    <accession>HMDB3141592</accession>
+    <name>Pumpkin-Pi-With-Whipped-Cream</name>
+    <direct_parent>Pies and derivatives</direct_parent>
+    <kingdom>Desserts</kingdom>
+    <super_class>Holiday desserts</super_class>
+    <class>Thanksgiving desserts</class>
+    <sub_class>Pastry-related Thanksgiving desserts</sub_class>
+    <diseases>
+      <disease>
+	<name>Oversatiety</name>
+      </disease>
+      <disease>
+        <name>Sleepiness</name>
+      </disease>
+    </diseases>
+    <pathways>
+      <pathway>
+        <name>Delicious Things Metabolism</name>
+        <kegg_map_id>map00000</kegg_map_id>
+      </pathway>
+      <pathway>
+        <name>Turkey Digestion Catalysts</name>
+        <kegg_map_id>map99999</kegg_map_id>
+      </pathway>
+    </pathways>
+    <synonyms>
+      <synonym>1,2'-Gourd-based Dessert</synonym>
+      <synonym>C00:0 Orange Lactase Agitator</synonym>
+      <synonym>C. moschata (Long Island Cheese Pumpkin) Mousse in Shell with β-Creme</synonym>
+    </synonyms>
+  </metabolite>
+</hmdb>
